@@ -1,0 +1,3 @@
+本文主要讲解的事定时器实现方式，可以采用spring+quartz+mysql方式实现，quartz是一种支持分布式定时器框架。
+具体可以参考https://www.likecs.com/show-203468856.html
+http://www.136.la/java/show-25687.html
